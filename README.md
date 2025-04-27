@@ -1,7 +1,9 @@
 Leo Stanley 🚀
+
 Hey there! I'm Leo Stanley, a DevOps enthusiast passionate about building reliable and scalable systems.
 
 🔥 Projects
+
 Chat Room (HTML)
 
 Java Spring Boot Apps
@@ -15,6 +17,7 @@ Travel Site (JS Project)
 SnapX Photography Site
 
 💻 Skills
+
 CI/CD Pipelines (Jenkins)
 
 Containerization (Docker, Kubernetes)
@@ -26,11 +29,13 @@ Infrastructure as Code (Terraform)
 Monitoring & Logging (Prometheus, Grafana)
 
 🌱 Growing In
+
 DevOps: Docker, Kubernetes, CI/CD
 
 Cloud (AWS)
 
 📫 Connect
+
 Follow me on GitHub! Let’s build resilient systems together.
 
 
