@@ -1,5 +1,37 @@
-# 💫 About Me:
-Welcome to Leo Stanley's Code Universe 👨‍💻🚀<br>Hi there! I'm Leo Stanley, a passionate developer crafting beautiful and functional digital experiences.<br><br>🌟 Projects Showcase<br>Chat Room: A web-based chat platform built with clean HTML magic.<br><br>Java Spring Boot Apps: Solid backend structures with Java's powerful framework.<br><br>Kool Form Pack: Form designs made fresh and user-friendly.<br><br>Crispy Kitchen: Deliciously coded HTML templates.<br><br>Travel Site: Dynamic travel landing page with JavaScript.<br><br>SnapX Photography: Capturing stunning moments through code.<br><br>🚀 What I Do<br>Frontend Web Development (HTML, CSS, JS)<br><br>Backend Systems (Java, Spring Boot)<br><br>Creative UI/UX Projects<br><br>Building sleek and practical web templates<br><br>🌱 Currently Growing<br>Diving deeper into full-stack solutions<br><br>Mastering DevOps practices: Docker, Kubernetes, CI/CD pipelines<br><br>Enhancing backend API development skills<br><br>Exploring cloud platforms like AWS and Azure<br><br>📫 Let's Connect<br>If you love clean code, fresh ideas, and a pinch of creativity, you’re in the right place!<br>Follow me on GitHub and join my journey through lines of code.
+Leo Stanley 🚀
+Hey there! I'm Leo Stanley, a DevOps enthusiast passionate about building reliable and scalable systems.
+
+🔥 Projects
+Chat Room (HTML)
+
+Java Spring Boot Apps
+
+Kool Form Pack (Forms UI)
+
+Crispy Kitchen (HTML Templates)
+
+Travel Site (JS Project)
+
+SnapX Photography Site
+
+💻 Skills
+CI/CD Pipelines (Jenkins)
+
+Containerization (Docker, Kubernetes)
+
+Cloud Platforms (AWS)
+
+Infrastructure as Code (Terraform)
+
+Monitoring & Logging (Prometheus, Grafana)
+
+🌱 Growing In
+DevOps: Docker, Kubernetes, CI/CD
+
+Cloud (AWS)
+
+📫 Connect
+Follow me on GitHub! Let’s build resilient systems together.
 
 
 # 💻 Tech Stack:
